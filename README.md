@@ -10,7 +10,7 @@ iumio A
 Description
 ------------
 
-We wants to thing a new architecture for PHP Projects such like MVC (Model View Controller).
+We wants to think a new architecture for PHP Projects such like MVC (Model View Controller).
 This repository will hosted many testing architectures.
 
 Contributing
